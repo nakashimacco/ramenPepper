@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>新規登録確認画面</title>
 </head>
 <body>
-
+<a href="/ramenPepper/RegisterServlet/">戻る</a>
 </body>
 </html>

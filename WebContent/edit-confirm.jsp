@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>新規登録画面</title>
+<title>登録修正確認画面</title>
 </head>
 <body>
-<a href="/ramenPepper/RamenPepperServlet/">戻る</a>
-
+<a href="/ramenPepper/RegisterServlet/">戻る</a>
 </body>
 </html>
